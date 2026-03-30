@@ -2,7 +2,7 @@
 
 This repository contains Python scripts used in my essay:
 
-**"A Computational Investigation of Timelike Curves and Embedded Geometry in General Relativity"**
+**"A Computational Investigation of Closed Timelike Curves and Embedded Geometry in General Relativity"**
 
 ## Contents
 - Gödel spacetime null hypersurface visualization
